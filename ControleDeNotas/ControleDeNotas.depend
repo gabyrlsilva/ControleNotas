@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1526070506 source:c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 28 - 11-05-2018\controledenotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"data.h"
+	"aluno.h"
+	"lista_alunos.h"
+
+1526904809 nos.h"
+
+1526060887 c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 28 - 11-05-2018\controledenotas\data.h
+	<time.h>
+
+1526902596 
+
+1526070711 c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 28 - 11-05-2018\controledenotas\aluno.h
+
+1526070272 c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 28 - 11-05-2018\controledenotas\lista_alunos.h
+
+1526329218 source:c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 29 - 14-05-2018\controledenotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"data.h"
+	"aluno.h"
+	"lista_alunos.h"
+
+1526317511 c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 29 - 14-05-2018\controledenotas\data.h
+	<time.h>
+
+1526325630 c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 29 - 14-05-2018\controledenotas\aluno.h
+
+1526319016 c:\users\ricar\dropbox\ifce 2018-i\introdução à programação\aula 29 - 14-05-2018\controledenotas\lista_alunos.h
+
+1526472153 source:c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 23 - 16-05-2018\controledenotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"data.h"
+	"aluno.h"
+	"lista_alunos.h"
+
+1526470316 c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 23 - 16-05-2018\controledenotas\data.h
+	<time.h>
+
+1526471834 c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 23 - 16-05-2018\controledenotas\aluno.h
+
+1526465293 c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 23 - 16-05-2018\controledenotas\lista_alunos.h
+
+1526904809 source:c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 24 - 21-05-2018\controledenotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"data.h"
+	"aluno.h"
+	"lista_alunos.h"
+
+1526902596 c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 24 - 21-05-2018\controledenotas\data.h
+	<time.h>
+
+1526903169 c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 24 - 21-05-2018\controledenotas\aluno.h
+
+1526465293 c:\users\ricar\dropbox\ifce 2018-i\lógica computacional\aula 24 - 21-05-2018\controledenotas\lista_alunos.h
+
+1527113462 source:/home/gaby/Documentos/Logica Computacional/ControleDeNotas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"data.h"
+	"aluno.h"
+	"lista_alunos.h"
+
+1526902598 /home/gaby/Documentos/Logica Computacional/ControleDeNotas/data.h
+	<time.h>
+
+1526903170 /home/gaby/Documentos/Logica Computacional/ControleDeNotas/aluno.h
+
+1526465294 /home/gaby/Documentos/Logica Computacional/ControleDeNotas/lista_alunos.h
+
